@@ -1,0 +1,5 @@
+1/ Cloudinary with folder to Mongodb
+2/ Multer to Cloudinary to Mongodb
+3/ userRef() to hidden input:file
+4/ FileReader() to base64 image
+3/ Context API
